@@ -111,18 +111,18 @@
     }
 }
 @media (max-width: 500px) {
-    .top-wrap > div {
+    .top-header > div {
         flex-direction: column;
         align-items: flex-start;
         height: auto;
     }
-    .top-wrap .logo {
+    .top-header .logo {
         width: 40%;
     }
-    .top-wrap .logo img {
+    .top-header .logo img {
         width: 100%;
     }
-    .top-wrap .description {
+    .top-header.description {
         width: 85%;
         font-size: 12px;
         margin-bottom: 7px;
